@@ -1,5 +1,14 @@
 [
   {
+    "slug": "2",
+    "title": "test",
+    "tags": [],
+    "date": "2026-02-26T21:25",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "1",
     "title": "0854 电子信息（面向车载嵌入式 Linux / 驱动 / BSP）院校对比",
     "tags": [],
